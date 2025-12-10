@@ -47,11 +47,11 @@ This project analyzes a **heart disease dataset** (from Kaggle) to uncover insig
 Here are the Limitations and Conclusion sections tailored to your specific analysis. You can add these to the bottom of your README.md file, just before the "Author" section.
 
 ### Limitations
--**Class Imbalance**: The target variable **(Heart_ stroke) is heavily imbalanced**, with significantly **more negative cases (3594) than positive cases (644)**. This may bias future machine learning models toward the majority class if not addressed ( SMOTE or undersampling).
+- **Class Imbalance**: The target variable **(Heart_ stroke) is heavily imbalanced**, with significantly **more negative cases (3594) than positive cases (644)**. This may bias future machine learning models toward the majority class if not addressed ( SMOTE or undersampling).
 
--**Imputation Strategy**: Missing values for columns like **glucose and BMI** were filled using the **median**, and **education** using the **mode**. While effective for preserving distribution centers, this method does not account for correlations between features and may **slightly reduce data variance.**
+- **Imputation Strategy**: Missing values for columns like **glucose and BMI** were filled using the **median**, and **education** using the **mode**. While effective for preserving distribution centers, this method does not account for correlations between features and may **slightly reduce data variance.**
 
--**Feature Generalization**: The engineered features **(BP_Cat, Glucose_Cat)** rely on general medical thresholds. Individual **patient history** or specific medical contexts were **not available for finer customization.**
+- **Feature Generalization**: The engineered features **(BP_Cat, Glucose_Cat)** rely on general medical thresholds. Individual **patient history** or specific medical contexts were **not available for finer customization.**
 
 ### Conclusion
 This project successfully transformed raw **heart disease data** into a clean, analytical dataset. By addressing **missing values, removing duplicates, and standardizing data types, the integrity of the dataset has been ensured**. Furthermore, the Feature Engineering phase added significant value by **translating raw clinical metrics (like blood pressure and BMI) into medically relevant categories.**
