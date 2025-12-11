@@ -44,7 +44,6 @@ This project analyzes a **heart disease dataset** (from Kaggle) to uncover insig
 
 - Combined clinical features provide more reliable patterns than single metrics.
 
-Here are the Limitations and Conclusion sections tailored to your specific analysis. You can add these to the bottom of your README.md file, just before the "Author" section.
 
 ### Limitations
 - **Class Imbalance**: The target variable **(Heart_ stroke) is heavily imbalanced**, with significantly **more negative cases (3594) than positive cases (644)**. This may bias future machine learning models toward the majority class if not addressed ( SMOTE or undersampling).
