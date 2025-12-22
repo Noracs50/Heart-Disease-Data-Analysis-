@@ -16,7 +16,7 @@ This project analyzes a **heart disease dataset** (from Kaggle) to uncover insig
 ### Tools & Technologies
 
 - **Python**– Used for data cleaning and Exploratory Data Analysis (EDA). We leverage libraries like pandas for data manipulation and analysis.
-- 
+
 - **Power Query** – Utilized for data transformation and shaping within Power BI.
 . This enables efficient ETL operations on the dataset.
   
