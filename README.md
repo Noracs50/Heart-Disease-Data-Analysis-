@@ -55,3 +55,13 @@ This project analyzes a **heart disease dataset** (from Kaggle) to uncover insig
 ### Conclusion
 This project successfully transformed raw **heart disease data** into a clean, analytical dataset. By addressing **missing values, removing duplicates, and standardizing data types, the integrity of the dataset has been ensured**. Furthermore, the Feature Engineering phase added significant value by **translating raw clinical metrics (like blood pressure and BMI) into medically relevant categories.**
 The findings reinforce widely recognized medical insights: **cardiovascular risk tends to increase with age, unhealthy lifestyle habits (such as smoking), and abnormal clinical indicators**. The dashboards offer a clear view of **patient distribution and risk characteristics,** enabling healthcare analysts and non-technical stakeholders to explore the data effectively.
+
+### Team Members 
+- Nora Raafat
+- Eman Ayman
+- Abdelrahman Gamal
+### If You Like Our Project Give It A Star -   <img width="512" height="512" alt="star (1)" src="https://github.com/user-attachments/assets/ecbd431f-9d6d-418f-ae61-a3cd633d134c" />
+
+
+
+
